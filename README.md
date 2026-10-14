@@ -84,7 +84,39 @@ python app.py
 
 
 
-## Project Screenshots
+---
 
-### Secure Website
+## 📸 Project Screenshots
+
+This section showcases the screenshots of the Session Hijacking Detection System, including secure and insecure website analysis, security checks, and model comparisons.
+
+### 1. Secure Website Detection
 ![Secure Website](Documentation%20of%20FYP/images/secure.png)
+
+### 2. Secure Google Analysis
+![Secure Google](Documentation%20of%20FYP/images/secure%20google.png)
+
+### 3. Secure URL Analysis
+![Secure URL](Documentation%20of%20FYP/images/secure%20url.png)
+
+### 4. Insecure Website Detection
+![Insecure Website](Documentation%20of%20FYP/images/insecure.png)
+
+### 5. Highly Insecure URL Detection
+![Highly Insecure URL](Documentation%20of%20FYP/images/high%20insecure%20url.png)
+
+### 6. CMIT Insecure Analysis
+![CMIT Insecure](Documentation%20of%20FYP/images/CMIT%20insecure.png)
+
+### 7. CMIT Security Check
+![CMIT Check](Documentation%20of%20FYP/images/CMIT%20check.png)
+
+### 8. Model Comparison
+![Model Comparison](Documentation%20of%20FYP/images/Comparison.png)
+
+### 9. Additional Model Comparison
+![Another Comparison](Documentation%20of%20FYP/images/Another%20comparision.png)
+
+### 10. Application Screenshot
+![Application Screenshot](Documentation%20of%20FYP/images/14.10.2026_13.20.15_REC.png)
+
