@@ -80,3 +80,11 @@ pip install -r requirements.txt
 
 # Run the Flask app
 python app.py
+
+
+
+
+## Project Screenshots
+
+### Secure Website
+![Secure Website](Documentation%20of%20FYP/images/secure.png)
